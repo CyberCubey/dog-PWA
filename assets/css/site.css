@@ -1,0 +1,17 @@
+
+body {
+	text-align: center;
+}
+
+img {
+	display: block;
+	width: min(100%, 500px);
+	height: 350px;
+	
+	object-fit: contain;
+	margin: 1rem auto;
+}
+button {
+	padding: 0.7rem 1rem;
+	font-size: 1rem;
+	cursor: pointer;}
